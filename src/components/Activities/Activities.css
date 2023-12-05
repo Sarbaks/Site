@@ -1,0 +1,22 @@
+.activities-container {
+    padding: 20px;
+  }
+  
+  .activity-list {
+    margin-top: 20px;
+  }
+  
+  .activity-item {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .activity-item img {
+    width: 150px;
+    margin-right: 20px;
+  }
+  
+  .activity-item div {
+    flex-grow: 1;
+  }
+  

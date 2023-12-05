@@ -1,0 +1,25 @@
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .left-section img {
+    max-width: 100%; /* Assurez-vous que l'image ne dépasse pas sa section */
+    height: auto; /* Conserver le ratio de l'image */
+    /* Ajoutez d'autres styles si nécessaire */
+  }
+  
+  
+  .right-section {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  /* ... autres styles ... */
+
+.title {
+    color: #00966E; /* Un vert représentatif, ajustez selon la nuance exacte souhaitée */
+  
+  }
+  
